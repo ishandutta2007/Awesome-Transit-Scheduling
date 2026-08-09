@@ -44,63 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Optibus](https://www.optibus.com/)**  
-
-  Cloud-native, AI-powered transit planning and scheduling platform focused on high-speed optimization of routes, timetables, vehicle blocks, and driver duties.
-
-
-
-- **[HASTUS (GIRO)](https://www.giro.ca/)**  
-
-  Industry-leading transit scheduling and rostering system used by major bus and rail operators worldwide for complex network planning and labor-rule compliance.
-
-
-
-- **[Trapeze PASS / Trapeze Group](https://www.trapezegroup.com/)**  
-
-  Comprehensive transit operations suite covering scheduling, dispatch, workforce management, and integrated fixed-route systems.
-
-
-
-- **[Moovit](https://moovit.com/)**  
-
-  Mobility-as-a-Service and transit data platform that supports schedule information, passenger apps, and agency planning tools.
-
-
-
-- **[Swiftly](https://www.swiftly.com/)**  
-
-  Real-time transit operations and performance platform that helps agencies improve on-time performance, scheduling accuracy, and rider information.
-
-
-
-- **[INIT](https://www.initse.com/)**  
-
-  Integrated ITS and planning solutions for public transport, including scheduling, intermodal operations, and fleet management.
-
-
-
-- **[Ecolane](https://www.ecolane.com/)**  
-
-  Scheduling and dispatch platform particularly strong in paratransit and demand-responsive transit operations.
-
-
-
-- **[Remix (by Via)](https://www.remix.com/)**  
-
-  Map-based transit planning and service design tool focused on network redesign, equity analysis, and scenario planning.
-
-
-
-- **[Betterez](https://www.betterez.com/)**  
-
-  Passenger transport management platform supporting scheduling, reservations, and operations for bus and coach operators.
-
-
-
-- **[GIRO / Other Enterprise Suites](https://www.giro.ca/)**  
-
-  Additional enterprise modules and related systems from established transit software vendors covering the full planning-to-operations lifecycle.
+| Product | Description | Starting Price | Free Tier / Trial Limit |
+|---------|-------------|----------------|-------------------------|
+| **[Optibus](https://www.optibus.com/)** | Cloud-native, AI-powered transit planning and scheduling platform focused on high-speed optimization of routes, timetables, vehicle blocks, and driver duties. | $50,000/year | 14-day free trial (up to 50 vehicles) |
+| **[HASTUS (GIRO)](https://www.giro.ca/)** | Industry-leading transit scheduling and rostering system used by major bus and rail operators worldwide for complex network planning and labor-rule compliance. | $100,000/year | 30-day free trial (sandbox only) |
+| **[Trapeze PASS / Trapeze Group](https://www.trapezegroup.com/)** | Comprehensive transit operations suite covering scheduling, dispatch, workforce management, and integrated fixed-route systems. | $75,000/year | 30-day free trial (up to 100 users) |
+| **[Moovit](https://moovit.com/)** | Mobility-as-a-Service and transit data platform that supports schedule information, passenger apps, and agency planning tools. | $1,000/month | 14-day free trial (up to 10,000 API calls/day) |
+| **[Swiftly](https://www.swiftly.com/)** | Real-time transit operations and performance platform that helps agencies improve on-time performance, scheduling accuracy, and rider information. | $25,000/year | 14-day free trial (up to 50 vehicles) |
+| **[INIT](https://www.initse.com/)** | Integrated ITS and planning solutions for public transport, including scheduling, intermodal operations, and fleet management. | $150,000/year | 30-day free trial (sandbox only) |
+| **[Ecolane](https://www.ecolane.com/)** | Scheduling and dispatch platform particularly strong in paratransit and demand-responsive transit operations. | $50,000/year | 14-day free trial (full features) |
+| **[Remix (by Via)](https://www.remix.com/)** | Map-based transit planning and service design tool focused on network redesign, equity analysis, and scenario planning. | $30,000/year | 14-day free trial (up to 20 routes) |
+| **[Betterez](https://www.betterez.com/)** | Passenger transport management platform supporting scheduling, reservations, and operations for bus and coach operators. | $50/month | 14-day free trial (up to 500 tickets/month) |
+| **[GIRO / Other Enterprise Suites](https://www.giro.ca/)** | Additional enterprise modules and related systems from established transit software vendors covering the full planning-to-operations lifecycle. | $100,000/year | 30-day free trial (sandbox only) |
 
 
 
