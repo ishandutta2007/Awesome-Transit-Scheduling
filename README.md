@@ -73,6 +73,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 🌍 Open-Source GitHub Projects
 
+- **[Stopwatch](https://github.com/shivrajsinhzala/transit-timetables)** [![Live Site](https://img.shields.io/badge/Live-transit.shivrajsinh.in-blue)](https://transit.shivrajsinh.in) 
+
+  High-performance static transit timetable and departure board platform covering 120+ networks across 6 countries, built directly from open GTFS data with zero-latency client-side departure queries.
+
+- **[Headway](https://github.com/shivrajsinhzala/headway)** [![Live Site](https://img.shields.io/badge/Live-headway.shivrajsinh.in-blue)](https://headway.shivrajsinh.in) 
+
+  Lightweight public transit timetable and headway frequency explorer for Australian and US networks, providing full-day stop schedules and frequency breakdowns from official GTFS feeds.
+
 - **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)** [![GitHub Repo stars](https://img.shields.io/github/stars/opentripplanner/OpenTripPlanner?style=social&color=white)](https://github.com/opentripplanner/OpenTripPlanner/stargazers) 
 
   Leading open-source multi-modal trip planner that builds networks from GTFS and OpenStreetMap data, supporting scheduled public transport combined with walking, cycling, and other modes.
